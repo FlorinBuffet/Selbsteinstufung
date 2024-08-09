@@ -1,0 +1,11 @@
+Stimmt nicht:
+Datentyp: a, b, e
+Argumentliste: a, b, d, e
+Kommentar: a, b, e
+Variablen-deklaration = a, b, d, e
+Objekt: b, c, d, e
+Zuweisung: d, e
+Operator: a, c, d
+Double-Zahl: c, e
+Methodenaufruf: b, c, d
+Anweisung: a, e
